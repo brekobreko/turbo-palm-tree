@@ -37,3 +37,9 @@ Wireless LAN adapter Wi-Fi:
    IPv4 Address. . . . . . . . . . . : 10.109.5.124
    Subnet Mask . . . . . . . . . . . : 255.255.248.0
    Default Gateway . . . . . . . . . : 10.109.0.254
+
+
+modositas
+
+
+
