@@ -36,4 +36,4 @@ Wireless LAN adapter Local Area Connection* 3:
 Wireless LAN adapter Wi-Fi:
 
    Media State . . . . . . . . . . . : Media disconnected
-   Connection-specific DNS Suffix  . : NavNGo.local
+   Connection-specific DNS Suffix  . : 
