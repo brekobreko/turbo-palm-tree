@@ -11,7 +11,7 @@ Ethernet adapter Ethernet 2:
 
    Connection-specific DNS Suffix  . : NavNGo.local
    Link-local IPv6 Address . . . . . : fe80::8dd6:6021:8677:95ca%12
-   IPv4 Address. . . . . . . . . . . : 10.111.2.133
+   IPv4 Address. . . . . . . . . . . : 10.111.2.79
    Subnet Mask . . . . . . . . . . . : 255.255.252.0
    Default Gateway . . . . . . . . . : 10.111.0.254
 
