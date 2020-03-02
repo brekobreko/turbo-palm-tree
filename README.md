@@ -23,11 +23,6 @@ Ethernet adapter VirtualBox Host-Only Network:
    Subnet Mask . . . . . . . . . . . : 255.255.255.0
    Default Gateway . . . . . . . . . : 
 
-Wireless LAN adapter Wi-Fi:
-
-   Media State . . . . . . . . . . . : Media disconnected
-   Connection-specific DNS Suffix  . : NavNGo.local
-
 Wireless LAN adapter Local Area Connection* 1:
 
    Media State . . . . . . . . . . . : Media disconnected
@@ -37,3 +32,8 @@ Wireless LAN adapter Local Area Connection* 3:
 
    Media State . . . . . . . . . . . : Media disconnected
    Connection-specific DNS Suffix  . : 
+
+Wireless LAN adapter Wi-Fi:
+
+   Media State . . . . . . . . . . . : Media disconnected
+   Connection-specific DNS Suffix  . : NavNGo.local
