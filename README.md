@@ -7,14 +7,6 @@ Ethernet adapter Ethernet:
    Media State . . . . . . . . . . . : Media disconnected
    Connection-specific DNS Suffix  . : NavNGo.local
 
-Ethernet adapter Ethernet 2:
-
-   Connection-specific DNS Suffix  . : NavNGo.local
-   Link-local IPv6 Address . . . . . : fe80::8dd6:6021:8677:95ca%12
-   IPv4 Address. . . . . . . . . . . : 10.111.2.16
-   Subnet Mask . . . . . . . . . . . : 255.255.252.0
-   Default Gateway . . . . . . . . . : 10.111.0.254
-
 Ethernet adapter VirtualBox Host-Only Network:
 
    Connection-specific DNS Suffix  . : 
@@ -22,11 +14,6 @@ Ethernet adapter VirtualBox Host-Only Network:
    IPv4 Address. . . . . . . . . . . : 192.168.56.1
    Subnet Mask . . . . . . . . . . . : 255.255.255.0
    Default Gateway . . . . . . . . . : 
-
-Wireless LAN adapter Wi-Fi:
-
-   Media State . . . . . . . . . . . : Media disconnected
-   Connection-specific DNS Suffix  . : NavNGo.local
 
 Wireless LAN adapter Local Area Connection* 1:
 
@@ -37,3 +24,11 @@ Wireless LAN adapter Local Area Connection* 3:
 
    Media State . . . . . . . . . . . : Media disconnected
    Connection-specific DNS Suffix  . : 
+
+Wireless LAN adapter Wi-Fi:
+
+   Connection-specific DNS Suffix  . : NavNGo.local
+   Link-local IPv6 Address . . . . . : fe80::4924:7bde:9e86:308e%15
+   IPv4 Address. . . . . . . . . . . : 10.109.2.36
+   Subnet Mask . . . . . . . . . . . : 255.255.248.0
+   Default Gateway . . . . . . . . . : 10.109.0.254
