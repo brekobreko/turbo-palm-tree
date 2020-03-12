@@ -9,6 +9,7 @@ Ethernet adapter Ethernet:
 
 Ethernet adapter VirtualBox Host-Only Network:
 
+   Media State . . . . . . . . . . . : Media powered-down
    Connection-specific DNS Suffix  . : 
    Link-local IPv6 Address . . . . . : fe80::a8e3:5c7d:b3ba:1c37%3
    IPv4 Address. . . . . . . . . . . : 192.168.56.1
