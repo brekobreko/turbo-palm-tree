@@ -7,11 +7,6 @@ Ethernet adapter Ethernet:
    Media State . . . . . . . . . . . : Media disconnected
    Connection-specific DNS Suffix  . : NavNGo.local
 
-Ethernet adapter Ethernet 2:
-
-   Media State . . . . . . . . . . . : Media disconnected
-   Connection-specific DNS Suffix  . : NavNGo.local
-
 Ethernet adapter VirtualBox Host-Only Network:
 
    Connection-specific DNS Suffix  . : 
@@ -29,6 +24,14 @@ Wireless LAN adapter Local Area Connection* 3:
 
    Media State . . . . . . . . . . . : Media disconnected
    Connection-specific DNS Suffix  . : 
+
+Ethernet adapter Ethernet 2:
+
+   Connection-specific DNS Suffix  . : NavNGo.local
+   Link-local IPv6 Address . . . . . : fe80::8dd6:6021:8677:95ca%12
+   Autoconfiguration IPv4 Address. . : 169.254.149.202
+   Subnet Mask . . . . . . . . . . . : 255.255.0.0
+   Default Gateway . . . . . . . . . : 
 
 Wireless LAN adapter Wi-Fi:
 
