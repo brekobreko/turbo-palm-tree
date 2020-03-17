@@ -29,8 +29,8 @@ Ethernet adapter Ethernet 2:
 
    Connection-specific DNS Suffix  . : NavNGo.local
    Link-local IPv6 Address . . . . . : fe80::8dd6:6021:8677:95ca%12
-   Autoconfiguration IPv4 Address. . : 169.254.149.202
-   Subnet Mask . . . . . . . . . . . : 255.255.0.0
+   IPv4 Address. . . . . . . . . . . : 192.168.42.100
+   Subnet Mask . . . . . . . . . . . : 255.255.255.0
    Default Gateway . . . . . . . . . : 
 
 Wireless LAN adapter Wi-Fi:
