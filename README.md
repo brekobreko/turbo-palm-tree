@@ -2,11 +2,6 @@
 Windows IP Configuration
 
 
-Ethernet adapter Ethernet 5:
-
-   Connection-specific DNS Suffix  . : 
-   Default Gateway . . . . . . . . . : ::
-
 Ethernet adapter Ethernet:
 
    Media State . . . . . . . . . . . : Media disconnected
