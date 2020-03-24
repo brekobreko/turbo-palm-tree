@@ -35,5 +35,8 @@ Ethernet adapter Ethernet 2:
 
 Wireless LAN adapter Wi-Fi:
 
-   Media State . . . . . . . . . . . : Media disconnected
    Connection-specific DNS Suffix  . : 
+   Link-local IPv6 Address . . . . . : fe80::4924:7bde:9e86:308e%15
+   IPv4 Address. . . . . . . . . . . : 192.168.43.126
+   Subnet Mask . . . . . . . . . . . : 255.255.255.0
+   Default Gateway . . . . . . . . . : 192.168.43.1
