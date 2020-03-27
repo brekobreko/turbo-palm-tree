@@ -9,7 +9,7 @@ Ethernet adapter Ethernet 5:
    Link-local IPv6 Address . . . . . : fe80::8218:5408:c9a9:ceb6%22
    IPv4 Address. . . . . . . . . . . : 10.200.2.64
    Subnet Mask . . . . . . . . . . . : 255.255.252.0
-   Default Gateway . . . . . . . . . : ::
+   Default Gateway . . . . . . . . . : 
 
 Ethernet adapter Ethernet:
 
@@ -44,8 +44,5 @@ Ethernet adapter Ethernet 2:
 
 Wireless LAN adapter Wi-Fi:
 
+   Media State . . . . . . . . . . . : Media disconnected
    Connection-specific DNS Suffix  . : 
-   Link-local IPv6 Address . . . . . : fe80::4924:7bde:9e86:308e%15
-   IPv4 Address. . . . . . . . . . . : 192.168.43.126
-   Subnet Mask . . . . . . . . . . . : 255.255.255.0
-   Default Gateway . . . . . . . . . : 192.168.43.1
