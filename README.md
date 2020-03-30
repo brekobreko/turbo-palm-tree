@@ -2,6 +2,15 @@
 Windows IP Configuration
 
 
+Ethernet adapter Ethernet 5:
+
+   Connection-specific DNS Suffix  . : navngo.local
+   Link-local IPv6 Address . . . . . : fe80::1c9a:bf58:df96:9880%22
+   Link-local IPv6 Address . . . . . : fe80::df45:a1ab:a411:a6a2%22
+   IPv4 Address. . . . . . . . . . . : 10.200.0.249
+   Subnet Mask . . . . . . . . . . . : 255.255.252.0
+   Default Gateway . . . . . . . . . : ::
+
 Ethernet adapter Ethernet:
 
    Media State . . . . . . . . . . . : Media disconnected
